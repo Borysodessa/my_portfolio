@@ -1,0 +1,6 @@
+.body{
+    background-image:url("../images/portfolioBackground/grey-filter.png"),url("../images/portfolioBackground/final_background.webp");
+ background-repeat:no-repeat ; 
+
+background-size:cover,cover;
+}
