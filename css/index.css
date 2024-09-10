@@ -1,6 +1,7 @@
 .body{
     background-image:url("../images/portfolioBackground/grey-filter.png"),url("../images/portfolioBackground/final_background.webp");
- background-repeat:no-repeat ; 
-
-background-size:cover,cover;
+    background-repeat:no-repeat ; 
+    background-size:cover,cover;
+    font-family: Roboto,Verdana, Geneva, Tahoma, sans-serif;
+    color: #545454;
 }
